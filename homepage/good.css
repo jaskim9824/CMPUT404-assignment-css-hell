@@ -1,0 +1,45 @@
+/* https://www.w3schools.com/css/css_website_layout.asp */
+/* https://www.w3schools.com/css/css3_gradients.asp */
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+}
+
+
+.mainheader {
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 25%;
+    background-color: white;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-style: ridge;
+    border-color: gray
+}
+
+
+.header {
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+
+.contentbox {
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-style: ridge;
+    border-color: gray
+}
+
+.column {
+    float: left;
+    width: 25%;
+}
+
+.column.h4 .column.h5 {
+    text-align: center;
+}
