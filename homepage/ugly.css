@@ -1,0 +1,53 @@
+/* Sources for CSS: */
+/* https://www.w3schools.com/css/css_website_layout.asp */
+/* https://www.w3schools.com/css/css3_gradients.asp */
+/* https://www.w3schools.com/css/css_border.asp */
+/* https://www.w3schools.com/css/css_border_sides.asp*/
+/* https://www.w3.org/Style/Examples/007/fonts.en.html */
+
+body {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    background-color: yellow;
+    color: red;
+    font-size: large;
+    font-style: italic;
+    font-style: bold;
+}
+
+
+.mainheader {
+    background-color: blue;
+    padding-left: 25%;
+    padding-right: 25%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+.header {
+    background-color: blue;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+
+.contentbox {
+    display: flex;
+    justify-content: space-between;
+}
+
+.column {
+    float: left;
+    width: 25%;
+}
+
+.columnleft {
+    float: left;
+    width: 25%;
+}
+
+.columnright {
+    float: left;
+    width: 25%;
+}
+

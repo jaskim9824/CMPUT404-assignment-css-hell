@@ -1,8 +1,13 @@
+/* Sources for CSS: */
 /* https://www.w3schools.com/css/css_website_layout.asp */
 /* https://www.w3schools.com/css/css3_gradients.asp */
+/* https://www.w3schools.com/css/css_border.asp */
+/* https://www.w3schools.com/css/css_border_sides.asp*/
+/* https://www.w3.org/Style/Examples/007/fonts.en.html */
+
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: black;
+    background-image: linear-gradient(to top, white, black );
 }
 
 
@@ -11,10 +16,8 @@ body {
     padding-left: 25%;
     padding-right: 25%;
     background-color: white;
-    margin-left: 5%;
-    margin-right: 5%;
-    border-style: ridge;
-    border-color: gray
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 
@@ -29,8 +32,8 @@ body {
     display: flex;
     justify-content: space-between;
     background-color: white;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
     border-style: ridge;
     border-color: gray
 }
@@ -38,7 +41,28 @@ body {
 .column {
     float: left;
     width: 25%;
+    border-right-style: ridge;
+    border-right-color: gray;
+    padding-left: 5%;
+    padding-right: 5%;
 }
+
+.columnleft {
+    float: left;
+    padding-left: 5%;
+    width: 25%;
+    border-right-style: ridge;
+    border-right-color: gray;
+    padding-right: 5%;
+}
+
+.columnright {
+    float: left;
+    padding-right: 5%;
+    padding-left: 5%;
+    width: 25%;
+}
+
 
 .column.h4 .column.h5 {
     text-align: center;
