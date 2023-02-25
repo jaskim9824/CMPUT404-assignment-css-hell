@@ -31,5 +31,10 @@ https://www.w3schools.com/css/css_border_sides.asp
 https://www.w3.org/Style/Examples/007/fonts.en.html  
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout  
 
+Gutenbureg Modifications
+================= 
+- Removed fields "background-color", "color", "font-family" and "font-size" from "body" class in style tag in 1.html
+- Removed a:link, link, a:visited, and a:hover classes in style tag in 1.html
+
 
 
