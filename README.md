@@ -33,8 +33,12 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout
 
 Gutenbureg Modifications
 ================= 
-- Removed fields "background-color", "color", "font-family" and "font-size" from "body" class in style tag in 1.html
-- Removed a:link, link, a:visited, and a:hover classes in style tag in 1.html
+- Removed fields "background-color", "color", "font-family" and "font-size" from "body" class in style tag of 1.html
+- Removed a:link, link, a:visited, and a:hover classes in style tag of 1.html
+- Removed background-color field in pagenum class in style tag of 1.html
+- Removed img, caption, caption.p classes in style tag of 1.html
+- Removed a:link a:visited, and a:hover classes in style tag of 2.html and 3.html
+- Removed p.caption class in style tag of 2.html
 
 
 
