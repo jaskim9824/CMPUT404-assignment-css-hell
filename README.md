@@ -40,6 +40,6 @@ Gutenbureg Modifications
 - Removed a:link a:visited, and a:hover classes in style tag of 2.html and 3.html
 - Removed p.caption class in style tag of 2.html
 - Removed font-weight property in h1 and h2 classes in style tag of 1.html
-- Removed font-weight and font-style property in h1, h2, h3, h4, and h5 classes in style tag of 1.html
+- Removed font-weight and font-style property in h1, h2, h3, h4, and h5 classes in style tag of 2.html and 3.html
 
 
