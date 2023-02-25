@@ -24,15 +24,15 @@ Code is licensed under the Apache 2.0 license.
 Sources
 =================  
 For CSS:  
-- https://www.w3.org/wiki/CSS/Properties/color/keywords*/
-- https://www.w3schools.com/css/css3_images.asp*/
-- https://www.w3schools.com/cssref/css3_pr_filter.php*/
-- https://www.w3schools.com/css/css_website_layout.asp */
-- https://www.w3schools.com/css/css3_gradients.asp */
-- https://www.w3schools.com/css/css_border.asp */
-- https://www.w3schools.com/css/css_border_sides.asp*/
-- https://www.w3.org/Style/Examples/007/fonts.en.html */
-- https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout */
+- https://www.w3.org/wiki/CSS/Properties/color/keywords
+- https://www.w3schools.com/css/css3_images.asp
+- https://www.w3schools.com/cssref/css3_pr_filter.php
+- https://www.w3schools.com/css/css_website_layout.asp
+- https://www.w3schools.com/css/css3_gradients.asp
+- https://www.w3schools.com/css/css_border.asp
+- https://www.w3schools.com/css/css_border_sides.asp
+- https://www.w3.org/Style/Examples/007/fonts.en.html
+- https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout 
 
 Gutenberg Modifications
 ================= 
